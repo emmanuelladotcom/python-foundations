@@ -23,5 +23,5 @@ print(f"{favourite_number} is a {type(favourite_number)}")
 print(f"{is_nlp_engineer} is a {type(is_nlp_engineer)}")
 
 # ---- BONUS: MATHS WITH VARIABLES ----
-years_until_faang = target_year - 2026
-print(f"\nYears until FAANG: {years_until_faang}")
+years_until_graduation = target_year - 2026
+print(f"\nYears until graduation: {years_until_graduation}")
