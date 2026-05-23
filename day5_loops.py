@@ -1,14 +1,14 @@
-# DAY 5 — HUSTLE SMART SUMMER 2026
+# DAY 5
 # for loops, while loops, range(), break, continue
 
 # ---- FOR LOOP: through a list ----
-print("--- K-pop groups ---")
+print("--- K-pop Groups ---")
 groups = ["aespa", "IVE", "NewJeans", "BLACKPINK"]
 for group in groups:
     print(f"  {group.upper()}")
 
 # ---- FOR LOOP: through a string ----
-print("\n--- Letters in your name ---")
+print("\n--- letters in your name ---")
 name = "Emmanuella"
 count = 0
 for letter in name:
